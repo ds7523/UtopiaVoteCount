@@ -2,5 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/dshrestha/Downloads/hadoop-2.5.2/share/hadoop/common/hadoop-common-2.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/dshrestha/Downloads/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/dshrestha/Downloads/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.5.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
